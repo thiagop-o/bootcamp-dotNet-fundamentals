@@ -1,0 +1,16 @@
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\Revisao\bin\Debug\net5.0\Revisao.exe
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\Revisao\bin\Debug\net5.0\Revisao.deps.json
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.json
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.dev.json
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\Revisao\bin\Debug\net5.0\Revisao.dll
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\Revisao\bin\Debug\net5.0\ref\Revisao.dll
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\Revisao\bin\Debug\net5.0\Revisao.pdb
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\Revisao\obj\Debug\net5.0\Revisao.csproj.AssemblyReference.cache
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\Revisao\obj\Debug\net5.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfoInputs.cache
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfo.cs
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\Revisao\obj\Debug\net5.0\Revisao.csproj.CoreCompileInputs.cache
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\Revisao\obj\Debug\net5.0\Revisao.dll
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\Revisao\obj\Debug\net5.0\ref\Revisao.dll
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\Revisao\obj\Debug\net5.0\Revisao.pdb
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\Revisao\obj\Debug\net5.0\Revisao.genruntimeconfig.cache
