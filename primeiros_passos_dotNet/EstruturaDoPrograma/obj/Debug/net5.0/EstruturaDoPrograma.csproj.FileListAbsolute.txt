@@ -1,0 +1,16 @@
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.exe
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.deps.json
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.runtimeconfig.json
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.runtimeconfig.dev.json
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.dll
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\EstruturaDoPrograma\bin\Debug\net5.0\ref\EstruturaDoPrograma.dll
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.pdb
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.csproj.AssemblyReference.cache
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.AssemblyInfoInputs.cache
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.AssemblyInfo.cs
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.dll
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\EstruturaDoPrograma\obj\Debug\net5.0\ref\EstruturaDoPrograma.dll
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.pdb
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.exe
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.deps.json
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.runtimeconfig.json
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.runtimeconfig.dev.json
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.dll
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\DigitalInnovationOne\bin\Debug\net5.0\ref\DigitalInnovationOne.dll
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\DigitalInnovationOne\bin\Debug\net5.0\DigitalInnovationOne.pdb
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.csproj.AssemblyReference.cache
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.AssemblyInfoInputs.cache
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.AssemblyInfo.cs
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.csproj.CoreCompileInputs.cache
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.dll
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\DigitalInnovationOne\obj\Debug\net5.0\ref\DigitalInnovationOne.dll
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.pdb
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\primeiros_passos_dotNet\DigitalInnovationOne\obj\Debug\net5.0\DigitalInnovationOne.genruntimeconfig.cache
