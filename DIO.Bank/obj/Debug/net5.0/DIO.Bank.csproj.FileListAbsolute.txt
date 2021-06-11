@@ -1,0 +1,16 @@
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\DIO.Bank\bin\Debug\net5.0\DIO.Bank.exe
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\DIO.Bank\bin\Debug\net5.0\DIO.Bank.deps.json
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.json
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.dev.json
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\DIO.Bank\bin\Debug\net5.0\DIO.Bank.dll
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\DIO.Bank\bin\Debug\net5.0\ref\DIO.Bank.dll
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\DIO.Bank\bin\Debug\net5.0\DIO.Bank.pdb
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.AssemblyReference.cache
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\DIO.Bank\obj\Debug\net5.0\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfoInputs.cache
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfo.cs
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.CoreCompileInputs.cache
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\DIO.Bank\obj\Debug\net5.0\DIO.Bank.dll
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\DIO.Bank\obj\Debug\net5.0\ref\DIO.Bank.dll
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\DIO.Bank\obj\Debug\net5.0\DIO.Bank.pdb
+D:\Meus arquivos\Digital_Innovation_One\doNet_Fundamentals\DIO.Bank\obj\Debug\net5.0\DIO.Bank.genruntimeconfig.cache
